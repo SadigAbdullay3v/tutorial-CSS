@@ -1,0 +1,25 @@
+background ->            https://www.w3schools.com/cssref/css3_pr_background.php
+                         https://developer.mozilla.org/en-US/docs/Web/CSS/background
+
+background attachment -> https://www.w3schools.com/css/css_background_attachment.asp
+                         https://developer.mozilla.org/en-US/docs/Web/CSS/background-attachment
+
+background color ->      https://www.w3schools.com/css/tryit.asp?filename=trycss_background-color_body
+                         https://developer.mozilla.org/en-US/docs/Web/CSS/background-color
+
+background img ->        https://www.w3schools.com/css/css_background_image.asp
+                         https://developer.mozilla.org/en-US/docs/Web/CSS/background-image
+
+background repeat ->     https://www.w3schools.com/css/css_background_repeat.asp
+                         https://developer.mozilla.org/en-US/docs/Web/CSS/background-repeat
+
+background blend mode -> https://www.w3schools.com/cssref/playdemo.php?filename=playcss_background-blend-mode
+                         https://developer.mozilla.org/en-US/docs/Web/CSS/background-blend-mode
+
+background position ->   https://www.w3schools.com/cssref/pr_background-position.php
+                         https://developer.mozilla.org/en-US/docs/Web/CSS/background-position
+
+background size ->       https://www.w3schools.com/cssref/css3_pr_background-size.php
+                         https://developer.mozilla.org/en-US/docs/Web/CSS/background-size
+
+background shorthand ->  https://www.w3schools.com/css/css_background_shorthand.asp

@@ -1,0 +1,10 @@
+selectorlar əsasən 2 cürə olur (id; class;)
+id- atributuna bir dəyər verdiyimiz zaman təkrar olunmaz bir ad qoymalıyıq
+texniki olaraq səhvdir.
+class- id e nisbətən qruplaşdırmaq üçün əl verişlidir bu səbəbdən eyni adlı classlar yaratmağımız mümkündür 
+
+qeyd: əgər heçbir id və class yoxdursa həmin tagin adını yazmağımız bəs edir
+
+div ozu bir qutudur ve daha elverişli kod yazmagimiza kömek edir və qruplaşdırmaq üçün birə-birdir
+
+qeyd: yazdigim css kodlarin sağ tərəfində nə işə yaradığını izzahlı şəkildə yazacam 

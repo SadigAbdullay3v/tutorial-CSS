@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="./assets/style.css">
+        <title>Css Selector</title>
+    </head>
+    <body>
+        <span>mekdeblerin şagirdleri</span>
+        <p class="school">mekdebler 1</p>
+        <p class="school">mekdebler 2</p>
+        <p class="school">mekdebler 3</p>
+        <p  class="school" id="num-1">mekdebler 4</p>
+        <p class="school">mekdebler 5</p>
+        <p class="school">mekdebler 6</p>
+        <p class="school">mekdebler 7</p>
+
+        <div></div> <!--Bir qutu kimi fikirləşmək olar daha rahat əl verişli kod yazmağımıza 
+        kömək edir və daha oxunaqlı kod yazmaq mümkündür 100/80 faiz isdifadə olunur-->
+            <br>
+            <br>
+            <br>
+
+        <div class="birinci-sinifler">
+            <p>cavid</p>
+            <p>elnur</p>
+            <p>asif</p>
+            <p>elton</p>
+            <p>Gülnur</p>
+            <p>rübabə</p>
+        </div>
+
+        <br>
+        <br>
+        <br>
+
+        <div class="ikinci-sinifler">
+            <p>əlöysətin oğlu</p>
+            <p>əlöysətin bacanağının oğlu</p>
+            <p>əlöysətin bibisi oğlu</p>
+            <p>əlöysətin qardaşı nəticəsi</p>
+            <p>əlöysətin bacısı qızının uşağınən nəvəsi</p>
+        </div>
+
+        <br>
+        <br>
+        <br>
+
+        <div class="ucuncu-sinifler">
+            <p>məhlə uşağları 1</p>
+            <p>məhlə uşağları 2</p>
+            <p>məhlə uşağları 3</p>
+            <p>məhlə uşağları 4</p>
+            <p>məhlə uşağları 5</p>
+            <p>məhlə uşağları 6</p>
+        </div>
+        <br>
+        <br>
+        <br>
+
+        <!-- indi ise tam aydın olmağı üçün sadə bir login səhvəsi yaradaq -->
+
+        <div class="center">
+            <div class="login">
+                <form action="">
+                    <label for="">UserName</label><br>
+                    <input name="username" type="text" placeholder="User Name"><br><br>
+                    <label for="">E-mail</label><br>
+                    <input name="email" type="email" placeholder="E-mail"><br><br>
+                    <label for="">Password</label><br>
+                    <input name="password" type="password" placeholder="Password"><br><br>  
+                    <input type="submit" value="Submit">
+                </form>
+            </div>
+        </div>
+
+        <br>
+        <br>
+        <br>
+
+        <!-- before məntiqi tag selector məntiqi  -->
+        <!-- p tag'i daxilində yazılan yazılardan qabaq css bölməsində verdiyimiz komanda yazılır -->
+        <p class="first-date">Salam</p> 
+        <p class="first-date">Mənim adım Sadiqdir</p>
+
+        <br>
+        <br>
+        <br>
+
+        <!-- after məntiqi tag selector məntiqi  -->
+        <!-- p tag'i daxilində yazılan yazılardan sonra css bölməsində verdiyimiz komanda yazılır -->
+        <p class="second-date">Salam</p>
+        <p class="second-date">Mənim adım Sadiqdir</p>
+       
+        <br>
+        <br>
+        <br>
+
+        <!-- Checked tag selector məntiqi  -->
+        <form action="">
+            <input type="radio"  value="male" name="gender"> Male<br>
+            <input type="radio" value="female" name="gender"> Female<br>
+            <input type="checkbox" checked="checked" value="Bike"> I have a bike<br>
+            <input type="checkbox" value="Car"> I have a car 
+
+            <!-- checked="checked" verdimiz input tagində aktiv 
+            olaraq var olan dəyəri özü seçir yəni biz var olan dəyəri 
+            seçməsək belə əvvəlcədən təyin etdiyimiz təgi seçilmiş kimi göstəririk -->
+        </form>
+        
+        <br>
+        <br>
+        <br>
+        
+        <input type="text" value="salamlar"><br> <!--Verdiyimiz value-ni dəyişmək OLUR!-->
+        <input type="text" value="salamlar" disabled> <!--Verdiyimiz value-ni dəyişmək OLMUR!-->
+        <!-- Birdə bunun tam tərsi "enabled"  olanı var sətr 117 də olduğu kimi heçnə yazmasaq belə bydefaul dəyəri enabled sayılır-->
+        <!-- Css yazarkəndə şərt kimi isdifadə etməyimiz mümkündür -->
+
+        <br>
+        <br>
+        <br>
+
+        <!-- Selectorlar baresində ətraflı məlumatı source bölməsindən baxa bilərsiz  -->
+    </body>
+</html>

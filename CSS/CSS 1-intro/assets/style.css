@@ -1,0 +1,4 @@
+/*(external kod yazilisi) eger html sehvede "x" taginə class və ya id dəyəri verməmişiksə həmin "x" atributunun adını yazmaqla stil vermək mümkündür*/
+p{ 
+    color: green;
+}

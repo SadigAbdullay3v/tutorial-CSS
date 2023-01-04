@@ -1,0 +1,23 @@
+Body özü bir tagdir və digər taglər kimi də ona background vermək mümkündür
+
+qeyd: background rənglərin 3 cür yazılışı var 
+      1) background-color: red;
+      2) background-color: #ff0000;
+      3) background-color: rgb(255,0,0);
+
+qeyd: opacity: 0.1;
+      opacity: 0.2;
+      opacity: 0.3;
+      opacity: 0.4;
+      opacity: 0.5;
+      opacity: 0.6;  ən çox işlənənlər bunlardır. onluq kəsrləri azaldıb çoxaltmaq mümkündür
+
+qeyd: opacity: 1; yazdığımız hal heç bir opacity yazdığımız hala bərabərdir
+
+qeyd: background-image: url(); - iki cürə isdifadə olunur 
+      1) link isdifadə etməklə. Web-dən hər hansısa şəkil linkini kopyalayıb url() daxilinə yapışdırın. (Aşağıdaki kimi)
+      background-image: url(https://wallpaperaccess.com/full/5506731.jpg);
+      2) şəkili proyektimizdə save edib root kimi çağırırıq.
+
+qeyd: background attachment məntiqi şəkili scroll olan ekran da sabit bir yerdə saxlayıb skrolla davam etməsidi yəni
+      ekran da skrol olsa belə şəkil ekranda sabitlədiyimiz yerdə qalır

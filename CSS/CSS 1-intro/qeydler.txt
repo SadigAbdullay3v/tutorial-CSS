@@ -1,0 +1,10 @@
+CSS yazdığımız html kodlarından aldığımız nəticəyə müdaxilə etməyimizə (yəni rəngini, görünüşünü, ölcüsen, formasına müdaxilə etməyimizə) köməkliy göstərir.
+
+<link> taginin əsas isdifadə olunma məksədi css papkasında yazdığımız kodları html papkasında isdifadə etməyimizə kömək edir və root məntiqi ilə çağırılır
+
+css kod yazılışının 3 növü var
+1) inline kod yazılış - style atributunnan isdifadə olunur (100/25 isdifadə olunur)
+2) internal kod yazılış - style tagindən isdifadə olunur (kod strukturuna uyğun olmadığına görə isdifadə olunmur)
+internal kod yazılışı head tag'inin içində yazılır
+3) external kod yazılışı - ayrı bir css file'ndan isdifadə edirik (100/99 isdifadə olunur)
+external kod yazilisi ayri bir papkada assets papkasi daxilinde yazilir

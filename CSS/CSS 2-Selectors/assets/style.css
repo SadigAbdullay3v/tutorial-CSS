@@ -1,0 +1,66 @@
+span{
+    color: hotpink;
+    background-color: red;
+    /* span inline element olmadığı üçün içində ki dəyər qədər ekranda yer tutur */
+}   
+.school{
+    color: purple;
+}
+#num-1{
+    color: green;
+}
+
+.birinci-sinifler p{
+    color: blue;
+}
+
+.ikinci-sinifler p{
+    background-color: black;
+    /* p tagi isə inline elementdir və ekranən uzuluğu qədər yer tutur */
+    color: red;
+}
+
+.ucuncu-sinifler {
+    /* bu hissede div taginə background rəng verilib */
+    background-color: black;
+} 
+
+.ucuncu-sinifler p{
+    /* bu hissədə divin içində ki p taglərinə background rəng verilib */
+    color: green;
+}
+
+.center{
+    display: flex; /*tam ətraflı source hissədə*/
+    justify-content: center; /*tam ətraflı source hissədə*/
+}
+.login{
+    background-color: rgb(12, 170, 12);
+    width: 300px;
+    text-align: center; /*tam ətraflı source hissədə*/
+    padding: 40px; /*tam ətraflı source hissədə*/
+}
+.first-date::before{
+    content: " REMEMBER  ! - "; /*ilk html səhvəsində ki yazı oxunduqdan qabaq icra olunur*/
+}
+.second-date::after{
+    content: "  - REMEMBER  !"; /*ilk html səhvəsində ki yazı oxunmamışdan qabaq icra olunur*/
+}
+
+input:checked { /*burdakı checked mentiqi seçilən inputa aşağıda yazılan kod sətrləri tətbiq olunur*/
+    height: 50px;
+    width: 50px;
+}
+
+input[type=text]:enabled { /*əgər input enabled dəyərinə sahibdirsə (enabled yazılmasa belə default dəyəri enabled dəyərdir) {}- daxilində verilənlər icra olunacaq*/
+    background: black;
+    height: 40px;
+    color: cyan;
+}
+
+
+input[type=text]:disabled { /*əgər input disabled dəyərinə sahibdirsə background color aşağıda verilən kimi olacaq {}- daxilində verilənlər icra olunacaq*/
+    background: green;
+    color: white;
+    width: 2000px;
+}

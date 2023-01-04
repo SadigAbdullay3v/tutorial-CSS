@@ -1,0 +1,14 @@
+html taglər barəsində ətrafli məlumat -> https://www.w3schools.com/tags/tag_div.ASP
+html selectors barəsində ətrafli məlumat -> https://www.w3schools.com/css/css_selectors.asp#:~:text=CSS%20selectors%20are%20used%20to,a%20specific%20relationship%20between%20them)
+
+display: flex; ne işə yarayır onun izzahı bu linkdə -> https://www.w3schools.com/css/tryit.asp?filename=trycss3_flexbox
+justify-content: center;  ne işə yarayır onun izzahı bu linkdə -> https://www.w3schools.com/cssref/playdemo.php?filename=playcss_justify-content
+text-align: center; ne işə yarayır onun izzahı bu linkdə -> https://www.w3schools.com/cssref/playdemo.php?filename=playcss_text-align
+padding:; nə işə yarayır onun izzahı bu linkdə -> https://www.w3schools.com/cssref/playdemo.php?filename=playcss_padding
+padding barəsində ətraflı məlumat bu linkdə -> https://www.w3schools.com/css/css_padding.asp
+
+selectors barəsində ətraflı məlumat -> https://www.w3schools.com/css/css_selectors.asp#:~:text=CSS%20selectors%20are%20used%20to,a%20specific%20relationship%20between%20them)
+bütün selectors barəsində nümunələr -> https://www.w3schools.com/cssref/css_selectors.php
+
+enabled-disabled məntiqi ətraflı məlumat -> https://www.w3schools.com/cssref/sel_disabled.php
+before-after məntiqi ətraflı məlumat -> https://www.w3schools.com/cssref/sel_before.php

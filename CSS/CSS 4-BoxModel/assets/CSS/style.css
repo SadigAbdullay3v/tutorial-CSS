@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+}
+.content{
+    height: 400px;
+    width: 400px;
+    border: 5px solid white;
+    background-color: green; /*content klasını rahat görək deyə*/
+    
+    /* padding: 50px; */
+    /* margin: 50px; */
+}

@@ -1,0 +1,94 @@
+body {
+    /* Body özü bir tagdir və background rəng və ya şəkil vermək mümkündür */
+    /* background-color: gray; */
+}
+
+
+/* BACKGROUND RƏNG MƏNTİQİ START */
+h2 {
+    /* h1 taginə arxa fon rəngi verir */
+    /* background-color: red; */
+}
+
+div {
+    /* div taginə background rəng verir */
+    /* background-color: lightblue; */
+}
+
+p {
+    /* p taginə background yəni arxa fon rəngi verir */
+    /* background-color: yellow; */
+}
+/* BACKGROUND RƏNG MƏNTİQİ END */
+
+
+/* OPOCİTY MƏNTİQİ START */
+/* div {
+    background-color: red;
+}
+div.opacity-005 {
+    opacity: 0.05;
+}
+div.opacity-01 {
+    opacity: 0.1;
+}
+div.opacity-02 {
+    opacity: 0.2;
+}
+div.opacity-03 {
+    opacity: 0.3;
+}
+div.opacity-04 {
+    opacity: 0.5;
+}
+div.opacity-05 {
+    opacity: 0.5;
+}
+div.opacity-06 {
+    opacity: 0.6;
+}
+div.opacity-07 {
+    opacity: 0.7;
+}
+div.opacity-08 {
+    opacity: 0.8;
+}
+div.opacity-09 {
+    opacity: 0.9;
+}
+div.opacity-1 {
+    opacity: 1;
+} */
+/* OPOCİTY MƏNTİQİ END */
+
+
+/* BACKGROUND İMG MƏNTİQİ START */
+body {
+
+    /* background-image: url(https://wallpaperaccess.com/full/5506731.jpg); */
+    /* background-image: url(./img/menzere.jpg); */
+
+    /* tam ətraflı Qeydlər hissəsində */
+}
+/* BACKGROUND İMG MƏNTİQİ END */
+
+
+/* BACKGROUND REPEAT MƏNTİQİ START */
+body {
+    /* background-image: url(./img/menzere.jpg); */
+    /* background-repeat: repeat-x; x-oxu üzərində repeat davam etdirir*/
+    /* background-repeat: repeat-y; y-oxu üzərində repeat davam etdirir*/
+    /* background-repeat: no-repeat; repeat'i ləğv edir*/
+}
+/* BACKGROUND REPEAT MƏNTİQİ END */
+
+
+/* BACKGROUND ATTACHMENT MƏNTİQİ START */
+/* Tam ətraflı qeydlər bölməsində */
+/* .attachment {
+    background-image: url(./img/menzere.jpg);
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+} */
+/* BACKGROUND ATTACHMENT MƏNTİQİ END */

@@ -1,0 +1,14 @@
+Box Model link -> https://www.w3schools.com/css/css_boxmodel.asp
+                  https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model
+                  https://www.udacity.com/blog/2021/04/the-css-box-model-explained-for-beginners.html
+
+Reset CSS link -> https://meyerweb.com/eric/tools/css/reset/
+
+Overflow link ->  https://developer.mozilla.org/en-US/docs/Web/CSS/overflow
+
+Opacity link ->   https://www.w3schools.com/cssref/css3_pr_opacity.php
+                  https://developer.mozilla.org/en-US/docs/Web/CSS/opacity
+
+Z-index ->        https://www.w3schools.com/cssref/pr_pos_z-index.php
+                  https://developer.mozilla.org/ru/docs/Web/CSS/z-index#:~:text=CSS%2D%D1%81%D0%B2%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE%20z%2Dindex%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F%D0%B5%D1%82,%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20%D1%81%20%D0%BC%D0%B5%D0%BD%D1%8C%D1%88%D0%B8%D0%BC%20z%2Dindex.
+
